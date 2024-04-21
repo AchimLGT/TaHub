@@ -17,7 +17,7 @@ OtoJJ:AddButton({
             "DÖRT",
             "BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 1.5  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -44,7 +44,7 @@ OtoJJ:AddButton({
             "DOKUZ",
             "ON"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 1.5  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -71,7 +71,7 @@ OtoJJ:AddButton({
             "ON DÖRT",
             "ON BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -98,7 +98,7 @@ OtoJJ:AddButton({
             "ON DOKUZ",
             "YİRMİ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -125,7 +125,7 @@ OtoJJ:AddButton({
             "YİRMİ DÖRT",
             "YİRMİ BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -152,7 +152,7 @@ OtoJJ:AddButton({
             "YİRMİ DOKUZ",
             "OTUZ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -179,7 +179,7 @@ OtoJJ:AddButton({
             "OTUZ DÖRT",
             "OTUZ BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -206,7 +206,7 @@ OtoJJ:AddButton({
             "OTUZ DOKUZ",
             "KIRK"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -233,7 +233,7 @@ OtoJJ:AddButton({
             "KIRK DÖRT",
             "KIRK BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -260,7 +260,7 @@ OtoJJ:AddButton({
             "KIRK DOKUZ",
             "ELLİ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -287,7 +287,7 @@ OtoJJ:AddButton({
             "ELLİ DÖRT",
             "ELLİ BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -314,7 +314,7 @@ OtoJJ:AddButton({
             "ELLİ DOKUZ",
             "ALTMIŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -341,7 +341,7 @@ OtoJJ:AddButton({
             "ALTMIŞ DÖRT",
             "ALTMIŞ BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -368,7 +368,7 @@ OtoJJ:AddButton({
             "ALTMIŞ DOKUZ",
             "YETMİŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -395,7 +395,7 @@ OtoJJ:AddButton({
             "YETMİŞ DÖRT",
             "YETMİŞ BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -422,7 +422,7 @@ OtoJJ:AddButton({
             "YETMİŞ DOKUZ",
             "SEKSEN"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -449,7 +449,7 @@ OtoJJ:AddButton({
             "SEKSEN DÖRT",
             "SEKSEN BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -476,7 +476,7 @@ OtoJJ:AddButton({
             "SEKSEN DOKUZ",
             "DOKSAN"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -503,7 +503,7 @@ OtoJJ:AddButton({
             "DOKSAN DÖRT",
             "DOKSAN BEŞ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -530,7 +530,7 @@ OtoJJ:AddButton({
             "DOKSAN DOKUZ",
             "YÜZ"
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -563,7 +563,7 @@ OtoGJ:AddButton({
             "Dört.",
             "Beş."
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 1.5  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -590,7 +590,7 @@ OtoGJ:AddButton({
             "Dokuz.",
             "On."
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 1.50  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -617,7 +617,7 @@ OtoGJ:AddButton({
             "On dört.",
             "On beş."
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -644,7 +644,7 @@ OtoGJ:AddButton({
             "On dokuz.",
             "Yirmi."
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
@@ -671,7 +671,7 @@ OtoGJ:AddButton({
             "Yirmi dört.",
             "Yirmi beş."
         }
-        local interval = 2.20  -- Time interval between messages in seconds
+        local interval = 2  -- Time interval between messages in seconds
         
         local function SendNextMessage()
             local message = messages[1]
